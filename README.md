@@ -18,13 +18,14 @@ To run this project click on the link below:
 
 Flow of the Website: Home Page > Online services > Send Money > Read reciever name and sender name > Send Money > View Transfer History.
 
-![image]()
+![image](/screenshot/homepage.png)
 
-![image]
+![image](/screenshot/contact_us.png)
 
-![image]
+![image](/screenshot/services.png)
 
-![image]
+![image](/screenshot/transfer.png)
 
-![image]
+![image](/screenshot/transaction.png)
+
 
