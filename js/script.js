@@ -6,7 +6,7 @@ function sendMoney() {
    let SenderAccountBalance = parseInt(document.getElementById(enterName1 + "BankBalance").innerText);
    if (enterAmount > 20000) {
 
-      alert("Enter Amount exceed the Anount limit(₹20000).")
+      alert("Enter Amount exceed the Anount limit(₹15000).")
    }
 
 
